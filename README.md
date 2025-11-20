@@ -1,6 +1,10 @@
 # PO-Region-Classifier
 Excel VBA tool that classifies Purchase Orders into global regions (AMER / APAC / EMEA) using prefix-based mapping. Includes sample data and modular .bas files.
 
+### 🔍 Demo
+
+![PO Classifier Demo](Demo/po-classifier-demo.gif)
+
 # PO Region Classifier (Excel + VBA)
 
 This project provides an Excel-based automation tool that classifies Purchase Order values into global regions (**AMER / APAC / EMEA**) using prefix-based lookup logic. The macros read PO identifiers, assign regions automatically, and generate summary counts without manual filtering or pivot tables.
